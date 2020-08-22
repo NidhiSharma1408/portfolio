@@ -283,8 +283,11 @@ h2{
         padding: 4vw;
     }
     .contact-links{
-        
-        font-size: 6vw;
+
+        height: 14vw;
+        width: 14vw;
+
+        font-size: 12vw;
       
     }
     .project-image{
